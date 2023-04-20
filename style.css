@@ -172,7 +172,7 @@ button.main-section__delete img:hover {
 /* Completed */
 ul#completed-tasks label {
   text-decoration: line-through;
-    color: #888;
+  color: #888;
 }
 
 /* Edit Task */
@@ -190,6 +190,6 @@ ul li.main-section__list-point_edit-mode label {
 }
 
 .main-section__add-tasks {
-    margin-top: 16px;
-    margin-bottom: 16px;
+  margin-top: 16px;
+  margin-bottom: 16px;
 }
