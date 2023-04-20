@@ -148,3 +148,8 @@ ul li.edit-mode input[type=text] {
 ul li.edit-mode label {
   display: none;
 }
+
+.section-add {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
